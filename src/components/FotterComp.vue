@@ -17,6 +17,7 @@ export default {
 .parent{
   padding: 50px;
   margin-top: 150px;
+  margin-bottom:10px;
   .container{
       h1{
       color: #1E1C24;
