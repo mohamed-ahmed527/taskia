@@ -40,7 +40,7 @@ export default {
       font-size: 17px;
       border: 0px;
       border-radius: 24px;
-      padding: 8px 25px;
+      padding: 6px 25px;
       color: white;
       background-color: #525FFB;
     }
@@ -49,9 +49,13 @@ export default {
 @media (max-width:900px) {
   .parent .container input{
     display: block;
-    width: 60%;
+    width: 70%;
     margin: auto;
     margin-bottom: 20px;
   }
+  .parent{
+    padding: 20px;
+  }
+}
 }
 </style>
