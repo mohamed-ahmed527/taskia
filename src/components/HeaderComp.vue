@@ -63,6 +63,7 @@ $blue1:#525FFB;
         border-radius: 13px;
         color: $blue1;
         border: 1px solid $blue1;
+        margin-top:5px;
       }
     }
     header{
