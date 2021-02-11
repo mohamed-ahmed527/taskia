@@ -114,7 +114,6 @@ $blue1:#525FFB;
   .parent .container header .row .col-xs-12 .header-text input{
     display: block;
     width: 70%;
-    margin: auto;
     margin-bottom: 20px;
   }
 }
