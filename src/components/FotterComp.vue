@@ -54,7 +54,7 @@ export default {
     margin-bottom: 20px;
   }
   .parent{
-    padding: 20px;
+    padding: 0px;
   }
 }
 </style>
