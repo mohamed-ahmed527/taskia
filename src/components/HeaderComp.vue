@@ -94,7 +94,7 @@ $blue1:#525FFB;
               font-size: 17px;
               border: 0px;
               border-radius:24px;
-              padding: 8px 25px;
+              padding: 6px 25px;
               color: white;
               background-color: $blue1;
             }
@@ -107,6 +107,14 @@ $blue1:#525FFB;
         }
       }
     }
+  }
+}
+@media (max-width:900px) {
+  .parent .container header .row .col-xs-12 .header-text input{
+    display: block;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
   }
 }
 </style>
