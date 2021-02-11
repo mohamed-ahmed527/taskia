@@ -104,7 +104,7 @@ export default {
           width: 50px;
           height: 50px;
           top: 40%; 
-          left: 15%;
+          left: 10%;
         }
         .photo3{
           width: 60px;
