@@ -138,5 +138,11 @@ export default {
     font-size: 37px;
     margin-bottom: 30px;
   }
+  .parent .container .trust h2{
+    font-size: 40px;
+  }
+  .parent .container .trust h1{
+    font-size: 65px;
+  }
 }
 </style>
