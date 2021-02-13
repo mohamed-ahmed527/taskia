@@ -67,7 +67,7 @@ $blue1:#525FFB;
       }
     }
     header{
-      padding-top: 100px ;
+      padding-top: 50px ;
       .row{
         .col-xs-12{
           .header-text{
@@ -115,6 +115,9 @@ $blue1:#525FFB;
     display: block;
     width: 70%;
     margin-bottom: 20px;
+  }
+  .parent .container header .row .col-xs-12 .header-text h1{
+    font-size:40px;
   }
 }
 </style>
