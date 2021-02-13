@@ -57,5 +57,8 @@ export default {
   .parent{
     padding: 0px;
   }
+  .parent .container .trust h2{
+    font-size: 40px;
+  }
 }
 </style>
