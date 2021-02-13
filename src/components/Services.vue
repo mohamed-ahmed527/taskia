@@ -75,4 +75,12 @@ $blue1:#525FFB;
     }
   }
 }
+@media (max-width:900px) {
+  .parent .container > h1{
+    font-size: 39px;
+  }
+  .parent .container .row .col-xs-12 .service1 h1{
+    font-size: 32px;
+  }
+}
 </style>
