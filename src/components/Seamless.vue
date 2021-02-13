@@ -133,4 +133,10 @@ export default {
     }
   }
 }
+@media (max-width:900px) {
+  .parent .container .row .col-xs-12 .seam-text h1{
+    font-size: 37px;
+    margin-bottom: 30px;
+  }
+}
 </style>
