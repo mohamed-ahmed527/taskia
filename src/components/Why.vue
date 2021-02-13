@@ -65,4 +65,10 @@ export default {
     }
   }
 }
+@media (max-width:900px) {
+  .parent .container .row .col-xs-12 .why-text h1{
+    font-size: 39px;
+    margin-bottom: 30px;
+  }
+}
 </style>
